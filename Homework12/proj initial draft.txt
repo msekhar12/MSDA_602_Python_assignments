@@ -1,0 +1,15 @@
+I would like to perform inferential statistical analysis on data related to diseases (which is available at data.gov - http://catalog.data.gov/dataset/infectious-disease-cases-by-county-year-and-sex). Specifically I would like to analyze the following:
+1. Which diseases occur most commonly together, and which do not occur together among the population? 
+2. Are there any specific diseases which occur to men most of the times, when compared to the women population or vice-versa? Is this trend constant over the years (given in the data set?)
+3. Is there any disease that frequently occur among the population over the years? Is there any disease that rarely occurred over the years? 
+4. Given that a specific geograhical location is identified with cases of a specific disease, can we get the probabilities of the other diseases that could occur in that geographical area? 
+
+
+Here is how I am planning to accomplish the above requirements:
+1. I will build a coefficient of correlation matrix, and get the list of diseases whose coeff. of correlation is greater than .6 or less than -.6. The first set corresponds to the set of diseases which could occur together (for a given disease), and the second set has the set of diseases which usually do not occur together (for a given disease).
+
+2. Draw histograms of the diseases for men and women, and see if you find any pattern. 
+
+3. Get the counts and percentages of disease occurrances
+
+4. Get a probability chart showing all the diseases (one per row), and the probabilities of other diseases occurring in the same year, given that the disease (in the row) has already ocurred. Also develop a user interface, where the user can input the details that one or more diseases have occurred, and the program should ouput the probabilities of all the other diseases occurring.

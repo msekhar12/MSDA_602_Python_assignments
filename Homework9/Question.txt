@@ -1,0 +1,13 @@
+
+Homework 9 
+.
+
+
+Use the pandas module to answer the following questions about the EPA-HTTP data set.  Print the result of each part to the console.  Use pandas as much as you can; this includes the data structure and the analysis.
+•Which hostname or IP address made the most requests?
+•Which hostname or IP address received the most total bytes from the server?  How many bytes did it receive? 
+•During what hour was the server the busiest in terms of requests?  (You can do this by grouping each hour period e.g. 13:00 – 14:00. Then count the number of requests in each hour)
+•Which .gif image was downloaded the most during the day?
+•What HTTP reply codes were sent other than 200?
+
+Use any other tools or techniques you need to create an efficient program.  These include scipy, numpy, regex, Tkinter, etc.

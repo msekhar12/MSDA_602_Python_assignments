@@ -1,0 +1,6 @@
+
+Project Part 3 
+.
+
+
+Your final project submission.  Please submit all required files in a single archive (.zip, .rar, .tar, etc.), or using GitHub or IPython.  Include all required read-me or other meta files.  Include anything and everything I need to understand, install and/or run your project. Due 12/23/2015. 

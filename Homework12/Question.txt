@@ -1,0 +1,12 @@
+
+Homework 12 
+.
+
+
+This homework will get your feet wet with some basic parallel computing approaches.  
+
+Do both of the following:
+1.Take your solution from Homework 11 and complete the Monte Carlo step (step 6) in parallel.  There are many ways you can go about doing this, and I'm not looking for anything too complicated.  If you can get multiple processes crunching the data together, that is great.  Using IPython’s built-in tools would be a great method
+2.Compare the timing for your solution in homework 11 and this parallel solution.  This is similar to what you did in homeworks 6 and 7.  Ideally, you'll see some speed improvement.  The amount you see will largely be based the capabilities of your hardware, and less on the software implementation.  There is additional overhead for running an operation in parallel, so speed gains will be more obvious with a larger number of calculations.
+
+As with the last homework, you will submit this to me as an IPython notebook.  Include the results of your comparison there, along with everything else (code, charts, graphs, etc.)

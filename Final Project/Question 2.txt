@@ -1,0 +1,6 @@
+
+Project Part 2 
+.
+
+
+ Please give me a full (at least one full page) specification of your proposed project.  This is not a software engineering course, so there is no defined format in which it needs to be written, but you may use one (UML, Z notation, etc) if you wish.  The document should be specific enough that I can understand completely the work you will be doing.  You should discuss the specifics you will use to create the program or programs.  Talk about how the interface will work, how the visualization will be incorporated, and what you will do with the data.  You will be, for the most part, bound to this description; this will be the program you write.  It will be used as a component to grade your final submission (how well you achieved what you propose). Due 11/18/2015.

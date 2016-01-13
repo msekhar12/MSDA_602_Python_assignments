@@ -1,0 +1,9 @@
+This should be another easy one.  Again, I am supplying a template for you to work from.  Again, I just need you to fill in a few things.  From these first two assignments, I'll be able to calibrate the rest of the course work.  We have a wide spectrum of skills and experience, and I want to make sure everyone gets something out of the class.
+
+Do all of the following:
+1.Fill in the CarEvaluation class.  We won't be doing a lot of OOP in this course, but it is good to know how to represent some data sets as objects.  The class needs to provide what is needed to get through the main at the end of the file.  This mean you'll need at least a constructor that takes values as (Brand, Price, Safety Rating), a function calledshowEvaluation and an attribute carCount.  I'll leave the details up to you.
+2.Fill in the function sortbyprice.  This takes a list of CarEvaluation objects as input, and sorts it by price in the specified order.
+3.Fill in the function searchforsafety.  This takes the list of CarEvaluation objects as input, searches for a value in the safety ratings, and returns true or false.
+4.(optional) Re-write the main to call the CarEvaluation class using introspection.
+
+As with Homework 1, please send a .py file attached to your submission.  I'll run "Python hw2.py" and check to see if your outputs match what I am asking for.

@@ -1,0 +1,6 @@
+What we are doing here is very similar to homework 6, but now we'll look a bit at scipy.
+
+Do parts 1 and 2.  Part 3 is optional
+•Take what you did on homework 5 as a starting point (using any of the provided datasets).  Replace the regression calculation using least squares with a curve fitting approach (examples in the reading).  To start, just fit a linear equation.  Output the equation to the console.  You don't need to graph anything (we'll look at that in a couple more weeks).
+•Again, using timeit, compare the performance of your solution in homework 5 to the scipy function.  Output the results to the console.
+•(Optional)  There are other models that can be fitted to the data we have.  Try to fit other equations, like Gaussian, to the data.  Output the equation to the console.

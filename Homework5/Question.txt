@@ -1,0 +1,10 @@
+
+Homework 5 
+.
+
+
+This is a small exploration into Data Mining.  We'll use this example in the future when we look at the more sophisticated mathematical and graphics tools in Python.  
+
+Do the following:
+1.Download the new data set on the Lesson 5 page called brainandbody.csv.  This file is a small set of average brain weights and average body weights for a number of animals.  We want to see if a relationship exists between the two. (This data set acquired from here).
+2.Perform a linear regression using the least squares method on the relationship of brain weight [br] to body weight [bo].  Do this using just the built in Python functions (this is really easy using scipy, but we're not there yet).  We are looking for a model in the form bo = X * br + Y.  Find values for X and Y and print out the entire model to the console.

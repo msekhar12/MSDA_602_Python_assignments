@@ -1,0 +1,16 @@
+Homework 1
+
+Your first homework assignment will be a quick and easy jump into Python.  For this and next week's assignments, I will supply a basic template that you need to expand upon.  Attached is a file hw1_template.py.  
+
+Do all of the following:
+1.Download and install Python 2.7.x on your computer.
+2.Fill in the 4 functions in hw1_template.py.  I want to be able to run the main function and see correct values printed from the function calls.
+
+The functions are:
+不ortwithloops.  Take the input list and return a sorted list, do not use list functions.  Do this just looping through the values.  Use any kind of sort you wish.
+不ortwithoutloops: Take the input list and return a sorted list, use list functions.
+不earchwithloops: Takes two inputs, the list and a value to search for.  Returns true if the value is in the list, otherwise false.  Do not use list functions.  Do this just looping through, with any kind of search.
+不earchwithoutloops: Takes two inputs, the list and a value to search for.  Returns true if the value is in the list, otherwise false.  Use list functions.
+3.Submit by attaching the completed .py file to your submission.  I will run "python hw1.py" (or whatever you call it) to see if your solution is correct.
+
+This and the next assignment should be pretty easy.  This helps me do a quick assessment on the class before we move forward.  If you have a lot of trouble with these assignments, please let me know.
